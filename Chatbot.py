@@ -36,7 +36,7 @@ pairs = [
     ],
     [
         r"What are the sports available to play in the campus",
-        ["The sports available are \n1.Cricket 2.Football \n3.batminton \n4.Throwball \n5.Vollyball \n6.Carrom \n7.Chess"]
+        ["The sports available are \n1.Cricket 2.Football \n3.Batminton \n4.Throwball \n5.Volleyball \n6.Carrom \n7.Chess"]
     ],
     [
         r"What is the AIM of BIET|AIM|aim",
@@ -47,7 +47,7 @@ pairs = [
         ["To be a centre of excellence recognized nationally and internationally, in distinctive areas of engineering education and research, based on a culture of innovation and invention"]
     ],
     [
-        r"What is the MISSION of BIET",
+        r"What is the MISSION of BIET|MISSION|mission|missions|MISSIONS",
         ["BIET contributes to the growth and development of its students by imparting a broad based engineering education and empowering them to be successful in their chosen field by inculcating in them positive approach, leadership qualities and ethical values"]
     ],
     [
