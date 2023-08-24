@@ -36,7 +36,7 @@ pairs = [
     ],
     [
         r"What are the sports available to play in the campus",
-        ["The sports available are \n1.Cricket 2.Footbal \n3.batmintton \n4.Throwball \n5.Vollyball \n6.Carrom \n7.Chess"]
+        ["The sports available are \n1.Cricket 2.Football \n3.batminton \n4.Throwball \n5.Vollyball \n6.Carrom \n7.Chess"]
     ],
     [
         r"What is the AIM of BIET|AIM|aim",
