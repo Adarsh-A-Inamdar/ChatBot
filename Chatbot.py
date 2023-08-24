@@ -2,7 +2,7 @@ import nltk
 from nltk.chat.util import Chat, reflections
 pairs = [
     [
-        r"hi|hello",
+        r"hi|hello|hey|HELLO|HI",
         ["Hello!", "Hi there!", "How can I help you today?"]
     ],
     [
@@ -10,7 +10,7 @@ pairs = [
         ["I'm just a computer program, but I'm here to assist you.", "I don't have feelings, but thanks for asking!"]
     ],
     [
-        r"interview questions",
+        r"interview questions|job questions",
         ["Sure, I can help with interview questions. Could you please specify the job role or industry you're interested in?"]
     ],
     [
@@ -24,15 +24,15 @@ pairs = [
     #Questions on BIET'
     [
         r"Where is BIET",
-        ["Biet is located in Shamanur road,Davangere-577005"]
+        ["BIET is located in Shamanur road,Davangere-577005"]
     ],
     [
-        r"Where is shiva temple in BIET",
+        r"Where is the Shiva temple in BIET",
         ["It is located in infront of admin block"]
     ],
     [
         r"What is the capacity of SSM Cultural hall ",
-        ["It has a Capacity of 1000 people "]
+        ["It has a Capacity of 700 people and with 2 VIP balconies"]
     ],
     [
         r"What are the sports available to play in the campus",
@@ -43,11 +43,11 @@ pairs = [
         ["Building the budding generation with a noble mission of engineering a healthy and technologically developed society"]
     ],
     [
-        r"What is the VISION of BIET",
+        r"What is the VISION of BIET|vision|Vision|VISION",
         ["To be a centre of excellence recognized nationally and internationally, in distinctive areas of engineering education and research, based on a culture of innovation and invention"]
     ],
     [
-        r"What is the MISSION of BIET|MISSION|mission|missions|MISSIONS",
+        r"What is the MISSION of BIET|MISSION|mission",
         ["BIET contributes to the growth and development of its students by imparting a broad based engineering education and empowering them to be successful in their chosen field by inculcating in them positive approach, leadership qualities and ethical values"]
     ],
     [
