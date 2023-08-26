@@ -67,3 +67,7 @@ def chat_with_bot():
         print("Chatbot:", response)
 if __name__ == "__main__":
     chat_with_bot()
+    #tkinter
+    #pyqt 
+    #py2.exe 
+    #fuzywuzy
